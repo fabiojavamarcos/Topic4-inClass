@@ -7,8 +7,8 @@
 class Triangle : public Shape {
 public:
     Triangle(double side1, double side2, double side3);
-    double calculateArea() const;
-    double calculatePerimeter() const;
+    double calculateArea() const override;
+    double calculatePerimeter() const override;
 
 private:
     double side1;

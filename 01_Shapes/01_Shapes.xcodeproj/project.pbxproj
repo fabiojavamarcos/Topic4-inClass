@@ -75,18 +75,18 @@
 		D95F35B62AF04D1D0080FFC9 /* 01_Shapes */ = {
 			isa = PBXGroup;
 			children = (
-				D95F35C22AF04D570080FFC9 /* Triangle.h */,
-				D95F35C62AF04D570080FFC9 /* Rectangle.h */,
-				D95F35C32AF04D570080FFC9 /* Circle.h */,
+				D95F35C52AF04D570080FFC9 /* resource.h */,
 				D95F35C12AF04D570080FFC9 /* Circle.cpp */,
+				D95F35C32AF04D570080FFC9 /* Circle.h */,
+				D95F35BE2AF04D560080FFC9 /* Triangle.cpp */,
+				D95F35C22AF04D570080FFC9 /* Triangle.h */,
+				D95F35CA2AF04D570080FFC9 /* Rectangle.cpp */,
+				D95F35C62AF04D570080FFC9 /* Rectangle.h */,
 				D95F35C92AF04D570080FFC9 /* Drawing.cpp */,
 				D95F35CD2AF04D570080FFC9 /* Drawing.h */,
-				D95F35CA2AF04D570080FFC9 /* Rectangle.cpp */,
-				D95F35C52AF04D570080FFC9 /* resource.h */,
 				D95F35CC2AF04D570080FFC9 /* Shape.cpp */,
-				D95F35C02AF04D570080FFC9 /* Shapes.cpp */,
 				D95F35C72AF04D570080FFC9 /* Shape.h */,
-				D95F35BE2AF04D560080FFC9 /* Triangle.cpp */,
+				D95F35C02AF04D570080FFC9 /* Shapes.cpp */,
 			);
 			path = 01_Shapes;
 			sourceTree = "<group>";

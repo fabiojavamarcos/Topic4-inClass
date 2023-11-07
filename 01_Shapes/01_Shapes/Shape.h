@@ -8,8 +8,8 @@ class Shape {
 public:
     void setColor(const std::string& color);
     std::string getColor() const;
-    double calculateArea() const;
-    double calculatePerimeter() const;
+    virtual double calculateArea() const;
+    virtual double calculatePerimeter() const;
 
 private:
     std::string color;
